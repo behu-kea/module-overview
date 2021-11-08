@@ -1,0 +1,14 @@
+[
+  {
+    "moduleNumber": "01",
+    "title": "lol",
+    "description": "This week will be about getting introduced to KEA, programming and problem solving.<br /> We will focus on fun tasks and exercises that prepare you for being a developer ",
+    "topics": [{ "topic": " Introduction to KEA", "emoji": "☀️" }]
+  },
+  {
+    "moduleNumber": "02",
+    "title": "test",
+    "description": "bla bla",
+    "topics": [{ "topic": " Iasdasdasd", "emoji": "💎" }]
+  }
+]
