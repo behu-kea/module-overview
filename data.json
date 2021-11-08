@@ -1,14 +1,81 @@
 [
   {
     "moduleNumber": "01",
-    "title": "lol",
-    "description": "This week will be about getting introduced to KEA, programming and problem solving.<br /> We will focus on fun tasks and exercises that prepare you for being a developer ",
-    "topics": [{ "topic": " Introduction to KEA", "emoji": "☀️" }]
+    "title": "Introduction",
+    "description": "This week will be about getting introduced to what programming is, what Python is and how this course will be runs. After that we will move into writing our first code 👌",
+    "topics": [
+      { "topic": "Introduction to programming and Python", "emoji": "☀️" },
+      { "topic": "Printing", "emoji": "🖨" },
+      { "topic": "Comments", "emoji": "📣" },
+      { "topic": "Errors", "emoji": "🚨" },
+      { "topic": "variable", "emoji": "💎" },
+      { "topic": "Crypto converter", "emoji": "🌕" }
+    ]
   },
   {
     "moduleNumber": "02",
-    "title": "test",
-    "description": "bla bla",
-    "topics": [{ "topic": " Iasdasdasd", "emoji": "💎" }]
+    "title": "String and if else",
+    "description": "This week we will be working with strings (text). We will look at both what a string is and some of the things we can do with strings. We will also briefly talk about if else sentences.",
+    "topics": [
+      { "topic": "What is a string", "emoji": "🧙‍♀️" },
+      { "topic": "Using input", "emoji": "🔠" },
+      { "topic": "Indes, length and concatenation", "emoji": "📏" },
+      { "topic": "String methods", "emoji": "📘" },
+      { "topic": "If else sentence", "emoji": "🍕" }
+    ]
+  },
+  {
+    "moduleNumber": "03",
+    "title": "String and if else",
+    "description": "This week we will be working with strings (text). We will look at both what a string is and some of the things we can do with strings. We will also briefly talk about if else sentences.",
+    "topics": [
+      { "topic": "What is a string", "emoji": "🧙‍♀️" },
+      { "topic": "Using input", "emoji": "🔠" },
+      { "topic": "Indes, length and concatenation", "emoji": "📏" },
+      { "topic": "String methods", "emoji": "📘" },
+      { "topic": "If else sentence", "emoji": "🍕" }
+    ]
+  },
+  {
+    "moduleNumber": "04",
+    "title": "maths",
+    "description": "This week we will be working with strings (text). We will look at both what a string is and some of the things we can do with strings. We will also briefly talk about if else sentences.",
+    "topics": [{ "topic": "What is a string", "emoji": "🧙‍♀️" }]
+  },
+  {
+    "moduleNumber": "05",
+    "title": "Functions and loop",
+    "description": "This week we will be working with strings (text). We will look at both what a string is and some of the things we can do with strings. We will also briefly talk about if else sentences.",
+    "topics": [
+      { "topic": "What is a string", "emoji": "🧙‍♀️" },
+      { "topic": "Using input", "emoji": "🔠" },
+      { "topic": "Indes, length and concatenation", "emoji": "📏" },
+      { "topic": "String methods", "emoji": "📘" },
+      { "topic": "If else sentence", "emoji": "🍕" }
+    ]
+  },
+  {
+    "moduleNumber": "06",
+    "title": "Conditional and control flow",
+    "description": "This week we will be working with strings (text). We will look at both what a string is and some of the things we can do with strings. We will also briefly talk about if else sentences.",
+    "topics": [
+      { "topic": "What is a string", "emoji": "🧙‍♀️" },
+      { "topic": "Using input", "emoji": "🔠" },
+      { "topic": "Indes, length and concatenation", "emoji": "📏" },
+      { "topic": "String methods", "emoji": "📘" },
+      { "topic": "If else sentence", "emoji": "🍕" }
+    ]
+  },
+  {
+    "moduleNumber": "07",
+    "title": "Tuples, Lists and Dictionaries",
+    "description": "This week we will be working with strings (text). We will look at both what a string is and some of the things we can do with strings. We will also briefly talk about if else sentences.",
+    "topics": [{ "topic": "What is a string", "emoji": "🧙‍♀️" }]
+  },
+  {
+    "moduleNumber": "08",
+    "title": "Course review and project start",
+    "description": "This week we will be working with strings (text). We will look at both what a string is and some of the things we can do with strings. We will also briefly talk about if else sentences.",
+    "topics": [{ "topic": "What is a string", "emoji": "🧙‍♀️" }]
   }
 ]

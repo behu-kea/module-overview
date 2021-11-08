@@ -110,13 +110,15 @@ function insertNewElement({
     1 week
   </div>
   <ul class="lessons">
-  ${topics.map(
-    (topic, i) => `<li class="element delay-4">
+  ${topics
+    .map(
+      (topic, i) => `<li class="element delay-4">
   <span class="lesson-number">0${i + 1}</span>
   <span class="lesson-title">${topic.topic}</span>
   <span class="lesson-duration">${topic.emoji}</span>
 </li>`
-  )}
+    )
+    .join("")}
     
     
   </ul>
